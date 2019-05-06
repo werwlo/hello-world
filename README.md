@@ -1,2 +1,5 @@
 # hello-world
-pierwsze repozytorium
+first repository
+
+dreaming never felt so bad
+loving never felt so bad before
